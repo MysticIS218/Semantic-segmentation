@@ -2,9 +2,9 @@
 ## Project Memebers: Anosh Abraham & Syed Alam
 
 ## install nni
-'''
-! pip install nni # install nni
-'''
+'
+! pip install nni 
+'
 ## save file under download (ngrok)
 ! wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
 
