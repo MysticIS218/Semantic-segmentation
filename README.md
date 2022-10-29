@@ -29,8 +29,9 @@
 ! curl -s http://localhost:4040/api/tunnels 
 
 # Make new directory satSegFiles
-# Change directory into satSegFiles & download data from github '228_semantic_segmentation_of_aerial_imagery_using_unet'
 !mkdir satSegFiles
+
+# Change directory into satSegFiles & download data from github '228_semantic_segmentation_of_aerial_imagery_using_unet'
 
 !cd /content/satSegFiles && wget https://raw.githubusercontent.com/bnsreenu/python_for_microscopists/master/228_semantic_segmentation_of_aerial_imagery_using_unet/228_training_aerial_imagery.py
 
