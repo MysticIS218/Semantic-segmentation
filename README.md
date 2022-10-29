@@ -1,5 +1,6 @@
 ## Semantic-segmentation
 ## Project Memebers: Anosh Abraham & Syed Alam
+## Documentation used: https://nni.readthedocs.io/en/stable/index.html
 
 ## install nni
 ! pip install nni 
