@@ -16,7 +16,7 @@
 # clone repo
 ! git clone https://github.com/microsoft/nni.git nni_repo/nni # clone NNI's offical repo to get examples
 
-# Create a account https://dashboard.ngrok.com/get-started/setup
+# Create an account https://dashboard.ngrok.com/get-started/setup
 # Find ngrok authtoken 
 ! ./ngrok authtoken 2GjVnxjnDv5z3VXi5gMnrdVrbt1_2QJn9uCqErV2GtjMzb51v
 
