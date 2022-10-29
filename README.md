@@ -32,6 +32,7 @@ get_ipython().system_raw('./ngrok http 5000 &')
 # Change directory into it & get download data ( github 228_semantic_segmentation_of_aerial_imagery_using_unet )
 !mkdir satSegFiles
 !cd /content/satSegFiles && wget https://raw.githubusercontent.com/bnsreenu/python_for_microscopists/master/228_semantic_segmentation_of_aerial_imagery_using_unet/228_training_aerial_imagery.py
+
 !cd /content/satSegFiles && wget https://raw.githubusercontent.com/bnsreenu/python_for_microscopists/master/228_semantic_segmentation_of_aerial_imagery_using_unet/simple_multi_unet_model.py
 
 
