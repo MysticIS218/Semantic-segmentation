@@ -9,5 +9,4 @@ Training
 For training, we run a multiple unet model with a total loss function. In the modeling, we train in batch sizes of 16. In our case we simply chose to follow the guidelines and run one hundred total epochs for training this model. Noticeably, the performance here is poor. The model takes a significant amount of time to train, though it does produce favorable results. The loss was minimal throughout runtime, and rarely went over a value 1.01.
 
 UNET
-Results
-Link to all results posted here (in a separate file) https://github.com/Jihxdul/Semantic-Segmentation-of-Satellite-Imagery/blob/milestone-2/MileStone-2-Results.md
+
