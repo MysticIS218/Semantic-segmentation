@@ -8,6 +8,15 @@ Knowledge distillation refers to the process of transferring knowledge from a la
 
 ![image](https://user-images.githubusercontent.com/91106087/205528865-87956155-5ca4-40c0-b0d5-e6d8c5cfd245.png)
 
+![image](https://user-images.githubusercontent.com/91106087/205551436-855df07d-c5fe-4a82-83dc-dbc89415b42b.png)
+
+![image](https://user-images.githubusercontent.com/91106087/205551457-dc8db8a4-6294-4106-8e7d-fb2930b78587.png)
+
+![image](https://user-images.githubusercontent.com/91106087/205551478-531f3cb1-66f5-49dd-bb9d-c5d3484167f6.png)
+
+![image](https://user-images.githubusercontent.com/91106087/205551488-075560f4-d5b9-42dc-bae5-c12e3023ec45.png)
+
+![image](https://user-images.githubusercontent.com/91106087/205551498-e8ae6342-c1c5-4a78-8d26-33ca0bac4814.png)
 
 
 We believe it will be necessary to use knowledge distillation in the future as we use larger models but have less available processing power to back them.
