@@ -14,4 +14,4 @@ We believe it will be necessary to use knowledge distillation in the future as w
 
 Implementing KD to our satellite segmentation imagery results in a better prediction before without it just like the results with our HPO method.
 
-The curves barely had any change to them with no changes in any trends.
+The curves however barely had any change to them with no changes in any trends.
