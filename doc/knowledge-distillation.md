@@ -7,3 +7,5 @@ In this milestone 4, we created a new network that is smaller than the original 
 Knowledge distillation refers to the process of transferring knowledge from a larger model to a single small model that can be used under different variables. In order to use knowledge distillation we needed the following information. The first action is to create both teacher and student models. Here we assumed that the teacher is trained and fixed after which we then distill teacher to student. 
 
 ![image](https://user-images.githubusercontent.com/91106087/205528865-87956155-5ca4-40c0-b0d5-e6d8c5cfd245.png)
+
+We believe it will be necessary to use knowledge distillation in the future as we use larger models but have less available processing power to back them 
